@@ -1,4 +1,5 @@
 #Bu oyun Mustafa ALKAN Tarafından Yazılmıştır.
+#Programı bilgisayarınızda çalıştırmak için Python Yüklü olmalıdır ve Gerekli Kütüphaneleri kurmanız gerekmektedir.  
 soru="evet"
 while soru=="evet" or soru=="EVET" or soru=="Evet":
     import random 
